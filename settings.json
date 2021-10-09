@@ -1,0 +1,9 @@
+{
+    "name": "jacob is the best developer ever",
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/framework/vanilla": true,
+        "/category/foundation/core-simple_nft": true
+    }
+}
